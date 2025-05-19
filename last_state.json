@@ -1,0 +1,1 @@
+{"os_version": "10.0.26100", "available_update": "Unsupported OS", "antivirus": [{"name": "Windows Defender", "version": null, "publisher": null, "enabled": true, "is_up_to_date": true, "type": "Windows Defender / Security Essentials"}], "sleep_timeout_seconds": 300, "disk_encryption_status": false}
